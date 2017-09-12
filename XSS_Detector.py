@@ -1,6 +1,6 @@
 #Tool Name		: XSS_Detector
 # Author		: Mayendran Govender
-# Created               : 5 September 2017
+# Created               : 5 September 2014
 # Version		: 1.0
 # Description		: This tool scans through your webserver log to detect Cross site scripting attacks.The output is written to a file called XSS_Attacks.log
 # Usage                 : python XSS_Detector.py
